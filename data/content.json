@@ -1,0 +1,133 @@
+{
+  "intro": { "line": "Flowers, light & a little magic" },
+  "hero": {
+    "poster": "/images/hero.png",
+    "eyebrow": "Floral & event decor studio",
+    "line1": "Decor that feels like",
+    "accent": "a love letter.",
+    "subtitle": "We design garden-soft mandaps, stages and entrances in colours chosen around your story, not a catalogue.",
+    "primaryCta": "Build My Brief",
+    "secondaryCta": "Explore Palettes",
+    "trust": "Trusted by 350+ families across UP",
+    "sticker": { "title": "Booking now", "text": "2026-27 wedding season" },
+    "dateCard": { "label": "Next open weekend", "value": "Ask us on WhatsApp" }
+  },
+  "approach": {
+    "eyebrow": "Our approach",
+    "title": "Every celebration has a colour, a flower and a feeling.",
+    "text": "We start with how you want your guests to feel, then choose the palette, florals and architecture that make it real. Calm and airy, rich and royal, or playful and bright.",
+    "stats": [
+      { "value": 350, "suffix": "+", "label": "Events decorated" },
+      { "value": 12, "suffix": "", "label": "Years of floral craft" },
+      { "value": 40, "suffix": "+", "label": "Cities & venues served" },
+      { "value": 98, "suffix": "%", "label": "Families who rebook" }
+    ]
+  },
+  "events": [
+    { "value": "wedding", "label": "Wedding", "icon": "temple" },
+    { "value": "engagement", "label": "Engagement", "icon": "gem" },
+    { "value": "haldi_mehndi", "label": "Haldi & Mehndi", "icon": "party" },
+    { "value": "reception", "label": "Reception", "icon": "curtains" },
+    { "value": "birthday", "label": "Birthday / Party", "icon": "cake" },
+    { "value": "custom", "label": "Corporate / Custom", "icon": "architecture" }
+  ],
+  "services": {
+    "eyebrow": "What we design",
+    "title": "Six spaces, one signature style",
+    "hint": "Hover or tap to open",
+    "items": [
+      { "title": "Mandap & Wedding Stage", "text": "Floral, carved or acrylic mandaps shaped around your rituals and venue.", "image": "/images/services/s1.jpg", "eventType": "wedding", "tags": ["Mandap", "Varmala stage", "Pheras"] },
+      { "title": "Haldi & Mehndi", "text": "Marigold walls, swings, brass urlis and relaxed boho seating.", "image": "/images/services/s2.jpg", "eventType": "haldi_mehndi", "tags": ["Marigold", "Lounge", "Props"] },
+      { "title": "Sangeet & Cocktail", "text": "Stage design, dance floor styling and warm, layered lighting.", "image": "/images/services/s3.jpg", "eventType": "reception", "tags": ["Stage", "Lighting", "Lounge"] },
+      { "title": "Reception & Gala", "text": "Floral walls, couple thrones and statement centerpieces.", "image": "/images/services/s4.jpg", "eventType": "reception", "tags": ["Floral wall", "Throne", "Tables"] },
+      { "title": "Entrances & Walkways", "text": "Flower tunnels, gates and photo moments from the first step in.", "image": "/images/services/s5.jpg", "eventType": "wedding", "tags": ["Tunnels", "Gates", "Photo wall"] },
+      { "title": "Parties & Private Events", "text": "Birthdays, anniversaries and corporate evenings with a custom theme.", "image": "/images/services/s6.jpg", "eventType": "birthday", "tags": ["Themes", "Backdrops", "Props"] }
+    ]
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "From first hello to the last petal",
+    "text": "A clear, calm process, so you can enjoy your own celebration.",
+    "steps": [
+      { "title": "We listen", "text": "A quick call or venue visit. We learn your rituals, guest flow, family wishes and budget.", "image": "/images/Dreamy Blush Garden Celebration (1).png" },
+      { "title": "We design", "text": "Moodboard, palette, layout and florals. Larger projects get 3D visuals before you confirm.", "image": "/images/Golden Garden Wedding Stage.png" },
+      { "title": "We build", "text": "Our crew sets up hours ahead, tests lighting and mists the flowers fresh before guests arrive.", "image": "/images/Opulent Floral Wedding Mandap.png" }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Recent work",
+    "title": "A look inside our weddings",
+    "hint": "Tap any photo to enlarge",
+    "items": [
+      { "title": "Gilded Floral Mandap", "tag": "Wedding", "ratio": "tall", "image": "/images/Opulent Palace Wedding Mandap.png" },
+      { "title": "Marigold Courtyard", "tag": "Haldi", "ratio": "wide", "image": "/images/Vibrant Haldi Garden Swing Décor.png" },
+      { "title": "Orchid & Crystal Stage", "tag": "Reception", "ratio": "square", "image": "/images/Opulent Golden Floral Wedding Stage.png" },
+      { "title": "Tuberose Canopy Walk", "tag": "Entrance", "ratio": "tall", "image": "/images/Opulent Floral Wedding Corridor.png" },
+      { "title": "Sunset Sangeet Lounge", "tag": "Sangeet", "ratio": "wide", "image": "/images/Luxurious Indian Sangeet Stage Celebration.png" },
+      { "title": "Ivory Garden Ceremony", "tag": "Wedding", "ratio": "square", "image": "/images/Golden Garden Wedding Stage.png" },
+      { "title": "Rose Arch Photo Wall", "tag": "Engagement", "ratio": "tall", "image": "/images/Dreamy Blush Garden Celebration.png" },
+      { "title": "Candlelit Table Scape", "tag": "Reception", "ratio": "wide", "image": "/images/Dreamy Blush Garden Celebration (1).png" }
+    ]
+  },
+  "palettes": {
+    "eyebrow": "Colour stories",
+    "title": "Pick a palette, feel the mood",
+    "text": "Tap a colour story to preview its personality. Each one is a starting point we adapt to you.",
+    "cta": "Use this palette",
+    "flowersLabel": "Signature flowers",
+    "idealLabel": "Feels like",
+    "items": [
+      { "name": "Blush & Sage", "mood": "Soft, airy, romantic", "bg": "#F2D4CC", "text": "#2F4237", "colors": ["#F2D4CC", "#E7A9A0", "#8A9A82", "#FBF7F2"], "flowers": "Garden roses, ranunculus, eucalyptus", "image": "/images/Dreamy Blush Garden Celebration.png" },
+      { "name": "Terracotta & Gold", "mood": "Warm, earthy, festive", "bg": "#C4654A", "text": "#FFF4E6", "colors": ["#C4654A", "#E3A857", "#F3D9B1", "#6B2D1F"], "flowers": "Marigold, dahlia, dried pampas", "image": "/images/Vibrant Haldi Garden Swing Décor.png" },
+      { "name": "Ivory & Emerald", "mood": "Regal, calm, timeless", "bg": "#1F5C4A", "text": "#FBF7F2", "colors": ["#FBF7F2", "#1F5C4A", "#C9A86A", "#0F2F26"], "flowers": "White orchids, jasmine, ferns", "image": "/images/Opulent Palace Wedding Mandap.png" },
+      { "name": "Plum & Rose", "mood": "Dramatic, rich, modern", "bg": "#5B2A4A", "text": "#F9E7EC", "colors": ["#5B2A4A", "#C9547A", "#F0BFD0", "#F9E7EC"], "flowers": "Peonies, roses, lisianthus", "image": "/images/Luxurious Indian Sangeet Stage Celebration.png" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Kind words",
+    "title": "Families we've decorated for",
+    "items": [
+      { "quote": "The mandap looked even better than the render. Guests kept asking who our decorator was.", "name": "Ananya & Rohit", "event": "Wedding, Lucknow" },
+      { "quote": "Haldi and sangeet in one weekend and not a single delay. Calm team, stunning flowers.", "name": "Meera Srivastava", "event": "Haldi & Sangeet" },
+      { "quote": "Honest advice on what to skip, clear pricing, and the reception stage stole the night.", "name": "Kabir Malhotra", "event": "Reception, Kanpur" }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Good to know",
+    "title": "Quick answers",
+    "items": [
+      { "q": "How early should I book?", "a": "For peak season (November to February) book 4 to 6 months ahead. For other months 6 to 8 weeks is usually enough." },
+      { "q": "Do you work outside Lucknow?", "a": "Yes, across Uttar Pradesh and for destination weddings. Travel and stay are quoted separately." },
+      { "q": "Can I see the design first?", "a": "Always. You get a moodboard and layout after the venue visit, and 3D visuals for larger projects." },
+      { "q": "Can you work within my budget?", "a": "Yes. Share your budget upfront and we design the best version of your idea inside it." }
+    ]
+  },
+  "brief": {
+    "eyebrow": "Start your brief",
+    "title": "Tell us your story in four quick steps.",
+    "text": "No long forms. Your answers go to us on WhatsApp so we can reply with ideas.",
+    "bullets": [
+      { "icon": "pin", "text": "Gomti Nagar, Lucknow • Serving all of Uttar Pradesh" },
+      { "icon": "clock", "text": "Reply within a few hours" },
+      { "icon": "verified", "text": "Free venue visit & moodboard" }
+    ],
+    "steps": ["Event", "Palette", "Venue", "You"],
+    "titles": ["What are we celebrating?", "Which colour story?", "Where & how big?", "Last step, who are you?"],
+    "venues": ["Banquet hall", "Lawn / Garden", "Hotel / Resort", "Palace / Heritage", "Home"],
+    "guests": ["Under 100", "100-300", "300-600", "600+"],
+    "next": "Continue",
+    "back": "Back",
+    "submit": "Send on WhatsApp",
+    "needsChoice": "Please choose an option to continue.",
+    "needsDetails": "Please fill in your name, a valid phone number and date.",
+    "doneTitle": "Your brief is on its way",
+    "doneText": "WhatsApp opened with your details. If it didn't, tap below.",
+    "again": "Start another brief"
+  },
+  "footer": {
+    "about": "A floral decor studio turning venues into gardens of memory.",
+    "navTitle": "Explore",
+    "contactTitle": "Say hello",
+    "tagline": "Made with flowers, patience & light."
+  }
+}

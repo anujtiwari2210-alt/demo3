@@ -1,0 +1,26 @@
+{
+  "brand": { "name": "Mehrab Decor Studio", "monogram": "M", "location": "Lucknow, UP" },
+  "seo": {
+    "title": "Mehrab Decor Studio | Floral Wedding & Event Decorators in Lucknow",
+    "description": "Garden-inspired wedding mandaps, stage and floral design with colour palettes made around your story. Serving Uttar Pradesh."
+  },
+  "contact": {
+    "phoneDisplay": "+91 888 197 0855",
+    "phoneRaw": "+918881970855",
+    "whatsapp": "918881970855",
+    "email": "hello@mehrabdecor.com",
+    "address": "Gomti Nagar, Lucknow, Uttar Pradesh 226010"
+  },
+  "whatsappMessages": {
+    "default": "Hello Mehrab Decor Studio, I would like to talk about decorating my event.",
+    "floating": "Hi Mehrab Decor Studio, I would like to chat with a designer."
+  },
+  "nav": [
+    { "label": "Services", "href": "#services" },
+    { "label": "Gallery", "href": "#gallery" },
+    { "label": "Palettes", "href": "#palettes" },
+    { "label": "Process", "href": "#process" },
+    { "label": "Contact", "href": "#brief" }
+  ],
+  "intro": { "enabled": true, "oncePerSession": true, "durationMs": 3300 }
+}
